@@ -7,8 +7,8 @@ public class Hari
 	{
 		// TODO Auto-generated method stub
 		int x=100;
-		int y=20;
-		int z=x+y;
+		int y=200;
+		int z=x-y;
 		System.out.println(z);
 
 	}
