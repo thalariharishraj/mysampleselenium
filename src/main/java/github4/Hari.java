@@ -9,7 +9,8 @@ public class Hari
 		int x=100;
 		int y=200;
 		int z=x-y;
-		System.out.println(z);
+		int s=x*y;
+		System.out.println(z,s);
 
 	}
 
